@@ -1,0 +1,32 @@
+[
+  {
+    "Id": 1,
+    "Name": "Laptop",
+    "Price": 1200.5,
+    "Stock": 25,
+    "Category": {
+      "Id": 101,
+      "Name": "Electronics"
+    }
+  },
+  {
+    "Id": 2,
+    "Name": "Headphones",
+    "Price": 50,
+    "Stock": 100,
+    "Category": {
+      "Id": 102,
+      "Name": "Accessories"
+    }
+  },
+  {
+    "Id": 3,
+    "Name": "Headphones",
+    "Price": 50,
+    "Stock": 10,
+    "Category": {
+      "Id": 0,
+      "Name": "Accesories"
+    }
+  }
+]
